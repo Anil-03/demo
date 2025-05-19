@@ -4,3 +4,6 @@ Adding new changes here in new branch(new-feature)
 
 
 I am in new cloned repository
+
+
+Demonstrating practical 3
